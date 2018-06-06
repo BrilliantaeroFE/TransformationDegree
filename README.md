@@ -20,5 +20,5 @@
  * npm install transformationdegree
  * yarn add transformationdegree
 
- ### 使用
+ ### 引入
  * import { latLngDecimalToDegrees } from 'transformationdegree'
