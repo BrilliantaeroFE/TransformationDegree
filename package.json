@@ -1,27 +1,23 @@
 {
-  "name": "TransformationDegree",
+  "name": "transformationdegree",
   "version": "1.0.0",
   "description": "latLngDecimalToDegrees,latLngDegreesToDecimal",
   "main": "index.js",
   "scripts": {
-    "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/BrilliantaeroFE/TransformationDegree.git"
   },
-  "keywords": ["latLngDecimalToDegrees", "latLngDegreesToDecimal"],
+  "keywords": [
+    "latLngDecimalToDegrees",
+    "latLngDegreesToDecimal"
+  ],
   "author": "BrilliantaeroFE",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/BrilliantaeroFE/TransformationDegree/issues"
   },
-  "homepage": "https://github.com/BrilliantaeroFE/TransformationDegree#readme",
-  "dependencies": {
-    "webpack": "^4.11.0"
-  },
-  "devDependencies": {
-    "webpack-cli": "^3.0.2"
-  }
+  "homepage": "https://github.com/BrilliantaeroFE/TransformationDegree#readme"
 }
