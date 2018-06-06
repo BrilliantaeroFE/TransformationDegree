@@ -15,3 +15,10 @@
  function checkLat() {}
  检查经纬度是否合理
  ```
+
+ ### 下载
+ * npm install transformationdegree
+ * yarn add transformationdegree
+
+ ### 使用
+ * import { latLngDecimalToDegrees } from 'transformationdegree'
